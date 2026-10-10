@@ -1,24 +1,41 @@
-# Hi, I'm Md Ashraful Utsho
+<div align="center">
+  <img src="./assets/profile-banner.svg" alt="Md Ashraful Utsho - building useful products with code, security, and design" width="100%" />
 
-Computer Science and Engineering student at United International University, interested in cybersecurity, practical software, and thoughtful digital experiences.
+  ### Engineer in progress · Builder by instinct · Clarity over clutter
 
-## About me
+  I turn real-world problems into useful digital products while growing at the intersection of **software engineering**, **cybersecurity**, and **design**.
+</div>
 
-- Building full-stack projects with Java, Spring Boot, React, and PostgreSQL
-- Experienced in IT support, quality control, and customer-facing work
-- Cisco-trained in cybersecurity fundamentals
-- Comfortable with Figma, Adobe XD, Photoshop, and Premiere Pro
-- Volunteer at Ashia Foundation and an experienced private tutor
+## What makes me, me
 
-## Current focus
+```text
+CODE       Java · Spring Boot · React · PostgreSQL
+SECURITY   Cisco-trained cybersecurity foundations
+DESIGN     Figma · Adobe XD · Photoshop · Premiere Pro
+MINDSET    Curious · practical · people-focused
+```
 
-I am strengthening my software engineering and cybersecurity skills while building useful, secure, and easy-to-understand products.
+I am a Computer Science and Engineering student at **United International University**. My experience spans IT support, quality control, tutoring, customer-facing work, and community volunteering—so I care as much about how technology works for people as how it works in code.
 
-## Featured work
+## Currently
 
-- [Breaking Business](https://github.com/Cenobitee/breaking-business-platform) - a full-stack business management platform
-- [Breaking Business - Live Deployment](https://github.com/Cenobitee/breaking-business-platform-vercel) - the deployment-ready version of the platform
+- Building secure, understandable full-stack applications
+- Strengthening backend engineering and cybersecurity skills
+- Turning business workflows into clean digital experiences
 
-## Connect
+## Selected build
 
-[LinkedIn](https://www.linkedin.com/in/md-ashraful-utsho-5b2363270)
+### Breaking Business
+
+A full-stack platform that connects sales, expenses, teams, investments, analytics, and role-based access in one workspace.
+
+`Java 21` · `Spring Boot` · `React` · `PostgreSQL` · `JWT` · `Flyway`
+
+[Source repository](https://github.com/Cenobitee/breaking-business-platform) · [Deployment repository](https://github.com/Cenobitee/breaking-business-platform-vercel) · [Live application](https://breaking-business-platform-vercel-f.vercel.app)
+
+---
+
+<div align="center">
+  <strong>Let's build something useful.</strong><br />
+  <a href="https://www.linkedin.com/in/md-ashraful-utsho-5b2363270">LinkedIn</a>
+</div>

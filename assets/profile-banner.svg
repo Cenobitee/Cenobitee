@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
+  <title id="title">Md Ashraful Utsho</title>
+  <desc id="description">Building useful products with code, security, and design.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.52" stop-color="#102748"/>
+      <stop offset="1" stop-color="#14213d"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#39d9c4"/>
+      <stop offset="1" stop-color="#8b7cff"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="320" rx="28" fill="url(#background)"/>
+  <g opacity=".13" stroke="#a9c7ff">
+    <path d="M0 64H1200M0 128H1200M0 192H1200M0 256H1200"/>
+    <path d="M80 0V320M160 0V320M240 0V320M320 0V320M400 0V320M480 0V320M560 0V320M640 0V320M720 0V320M800 0V320M880 0V320M960 0V320M1040 0V320M1120 0V320"/>
+  </g>
+  <circle cx="1040" cy="62" r="108" fill="#725cff" opacity=".12" filter="url(#glow)"/>
+  <circle cx="1060" cy="255" r="118" fill="#2ce0c2" opacity=".12" filter="url(#glow)"/>
+  <g transform="translate(865 42)" fill="none" stroke="url(#accent)" stroke-width="3">
+    <circle cx="105" cy="118" r="77" opacity=".8"/>
+    <circle cx="105" cy="118" r="47" opacity=".6"/>
+    <path d="M28 118H0M210 118h-28M105 41V13M105 223v-28"/>
+    <circle cx="105" cy="118" r="8" fill="#45dcc6" stroke="none"/>
+    <circle cx="28" cy="118" r="5" fill="#8b7cff" stroke="none"/>
+    <circle cx="182" cy="118" r="5" fill="#8b7cff" stroke="none"/>
+  </g>
+  <rect x="70" y="62" width="82" height="8" rx="4" fill="url(#accent)"/>
+  <text x="70" y="140" fill="#f7fbff" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700">Md Ashraful Utsho</text>
+  <text x="73" y="190" fill="#9bb2cc" font-family="Segoe UI, Arial, sans-serif" font-size="24">CODE · SECURITY · DESIGN</text>
+  <text x="73" y="240" fill="#d8e5f4" font-family="Segoe UI, Arial, sans-serif" font-size="21">Building useful products from real-world problems.</text>
+</svg>
